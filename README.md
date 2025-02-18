@@ -3,7 +3,7 @@ AQui esta los ejercicos hechos en clase durante el transcurso del skill
 ## Tabla de contenidos
 | 1 | Contenido |
 |--|--|
-| 1 | Introduccion a Python |
+| 1 | Dia1|
 | 2 | Funciones en Python |
 | 3 | Realizacion de ejercicios en Python |
 | 4 | Modulos |
